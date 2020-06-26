@@ -1,0 +1,208 @@
+body{
+	font-size: 18px;
+}
+
+li{
+	list-style:none;
+	line-height: 42px;
+}
+h1,h2,h3,h4{text-transform: uppercase;}
+
+
+.wrapper{
+	margin-top: 5%;
+	margin-left: 15%;
+	width: 70%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex; `
+}
+
+.block{
+	width: 350px;
+	height: 1210px;
+	background-color: rgb(86, 96, 114);
+}
+
+img{
+	margin-top: 25px;
+	margin-left: 25px;
+	width: 300px;
+	height: 300px;
+}
+
+.content{
+	color: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.about{}
+
+.title-1{
+	margin-bottom: -3px;
+	text-align: center;
+	color: #fff;
+	font-size: 26px;
+}
+
+.level>li{
+	float: left;
+}
+
+.l70{
+	width: 200px;
+	height: 5px;
+	background-color: rgb(112, 147, 202);
+
+}
+.l60{
+	width: 200px;
+	height: 5px;
+	background-color: rgb(112, 147, 202);
+
+}
+.l85{
+	width: 200px;
+	height: 5px;
+	background-color: rgb(112, 147, 202);
+
+}
+.l90{
+	width: 200px;
+	height: 5px;
+	background-color: rgb(112, 147, 202);
+
+}
+/*
+.level-30{
+	width: 60px;
+	height: 5px;
+	background-color: #fff;
+}
+.level-40{
+	width: 80px;
+	height: 5px;
+	background-color: #fff;
+}
+.level-15{
+	width: 30px;
+	height: 5px;
+	background-color: #fff;
+}
+.level-10{
+	width: 20px;
+	height: 5px;
+	background-color: #fff;
+}
+*/
+.title-2{
+	margin-top: 38px;
+	margin-bottom: -10px;
+}
+
+
+/*block-2*/
+
+.con-block3{
+	margin-top: 70px;
+}
+
+.con-block4{
+	margin-top: 70px;
+}
+
+.block-2{
+	color: #666;
+	text-align: left;
+}
+
+.con-block{
+	text-align: center;
+	
+}
+
+.con-block>h1{
+	font-size: 36px;
+	
+}
+
+.gran{
+	width: 559px;
+	height: 4px;
+	background-color: #999999;
+	margin-left: 71px;
+	margin-top: -19px;
+}
+
+.con-block>p{
+	margin-top: 5px;
+}
+
+.container{
+	margin-left: 30px;
+}
+
+.title-3{
+	font-size: 24px;
+}
+
+span.sp1{
+	font-size: 30px;
+	font-weight: 600;
+	color: black;
+}
+
+span.sp{
+	font-size: 24px;
+	color: #333;
+}
+
+.con-block4>ul{
+	text-transform: capitalize;
+}
+
+
+/*BTN*/
+
+.btn{
+	width: 100px;
+	border: 1px solid rgb(86, 96, 114);
+	margin-left: auto;
+	padding: 5px 10px;
+	border-radius: 100px;
+	transition: all 0.4s ease-in-out 0s;
+}
+
+.btn>a{
+	text-decoration: none;
+	color: rgb(86, 96, 114);
+	transition: all 0.4s ease-in-out 0s;
+}
+
+.btn:hover{
+	background-color: rgb(86, 96, 114); 
+}
+
+.btn>a:hover{
+	color: #fff;
+}
+
+i{
+	margin-left: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
